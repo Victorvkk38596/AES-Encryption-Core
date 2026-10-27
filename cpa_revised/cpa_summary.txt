@@ -1,0 +1,21 @@
+AES-128 CORRELATION POWER ANALYSIS RESULTS
+Recovered Round 10 Key: F6 4E 80 0B D1 F9 F0 A5 23 D5 4C 24 AD 02 97 FD 
+Recovered Master Key:   01 23 45 67 89 AB CD EF 12 34 56 78 9A BC DE F0 
+
+Byte-by-Byte Metrics:
+Byte  1 | K10=0xF6 | PeakCorr=0.2291 | RunnerUp=0.1480 | PeakTime=441.6 ns | MTD=460 traces
+Byte  2 | K10=0x4E | PeakCorr=0.2438 | RunnerUp=0.1570 | PeakTime=444.4 ns | MTD=520 traces
+Byte  3 | K10=0x80 | PeakCorr=0.2570 | RunnerUp=0.1522 | PeakTime=443.8 ns | MTD=230 traces
+Byte  4 | K10=0x0B | PeakCorr=0.2203 | RunnerUp=0.1659 | PeakTime=441.7 ns | MTD=260 traces
+Byte  5 | K10=0xD1 | PeakCorr=0.2057 | RunnerUp=0.1597 | PeakTime=441.8 ns | MTD=370 traces
+Byte  6 | K10=0xF9 | PeakCorr=0.2635 | RunnerUp=0.1290 | PeakTime=444.2 ns | MTD=260 traces
+Byte  7 | K10=0xF0 | PeakCorr=0.2922 | RunnerUp=0.1319 | PeakTime=444.6 ns | MTD=200 traces
+Byte  8 | K10=0xA5 | PeakCorr=0.2543 | RunnerUp=0.1587 | PeakTime=444.1 ns | MTD=160 traces
+Byte  9 | K10=0x23 | PeakCorr=0.2067 | RunnerUp=0.1479 | PeakTime=444.1 ns | MTD=750 traces
+Byte 10 | K10=0xD5 | PeakCorr=0.2568 | RunnerUp=0.1371 | PeakTime=444.6 ns | MTD=420 traces
+Byte 11 | K10=0x4C | PeakCorr=0.2208 | RunnerUp=0.1311 | PeakTime=444.6 ns | MTD=230 traces
+Byte 12 | K10=0x24 | PeakCorr=0.1957 | RunnerUp=0.1434 | PeakTime=444.2 ns | MTD=450 traces
+Byte 13 | K10=0xAD | PeakCorr=0.2551 | RunnerUp=0.1468 | PeakTime=443.8 ns | MTD=220 traces
+Byte 14 | K10=0x02 | PeakCorr=0.2426 | RunnerUp=0.1366 | PeakTime=443.9 ns | MTD=380 traces
+Byte 15 | K10=0x97 | PeakCorr=0.2445 | RunnerUp=0.1300 | PeakTime=444.3 ns | MTD=190 traces
+Byte 16 | K10=0xFD | PeakCorr=0.2943 | RunnerUp=0.1402 | PeakTime=444.4 ns | MTD=160 traces
